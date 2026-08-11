@@ -68,11 +68,11 @@ Various experiments and tools written while learning different programming conce
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Soggal1ng&theme=radical)
-![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Soggal1ng&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Soggal1ng&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Soggal1ng&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soggal1ng&theme=react-dark)
 
-# My Old Account stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Soggaling&theme=radical)
-![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Soggaling&show_icons=true&theme=radical)
+
 ---
 
 ## Goals
