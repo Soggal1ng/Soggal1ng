@@ -67,7 +67,8 @@ Various experiments and tools written while learning different programming conce
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soggal1ng&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Soggal1ng&theme=radical)
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Soggal1ng&show_icons=true&theme=radical)
 
 ---
 
