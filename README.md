@@ -1,4 +1,5 @@
 # Hey, I'm Sogga
+<img width="1920" height="1080" alt="sogga-server-banner" src="https://github.com/user-attachments/assets/5ae636a0-c67d-47a6-b3c3-9a7cc719a8db" />
 
 Welcome to my GitHub profile.
 
